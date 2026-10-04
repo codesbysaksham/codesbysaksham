@@ -4,95 +4,102 @@
 
 ### AI & Data Science Student · Developer · Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Learning+Data+Science;Building+Real-World+Projects;Turning+Ideas+Into+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Learning+Data+Science;Building+Real-World+Projects;Turning+Ideas+Into+Technology" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://sakshamnidhi.com.np">
-  <img src="https://img.shields.io/badge/Portfolio-sakshamnidhi.com.np-0f172a?style=for-the-badge&logo=google-chrome&logoColor=38bdf8" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-SAKSHAMNIDHI.COM.NP-0f172a?style=for-the-badge&labelColor=0f172a" alt="Portfolio"/>
 </a>
+
 <a href="https://github.com/codesbysaksham">
-  <img src="https://img.shields.io/badge/GitHub-codesbysaksham-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
+<img src="https://img.shields.io/badge/💻%20GITHUB-CODESBYSAKSHAM-0f172a?style=for-the-badge&labelColor=0f172a" alt="GitHub"/>
 </a>
 
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=codesbysaksham&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-38BDF8?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Data%20Science-38BDF8?style=flat-square" />
+<img src="https://img.shields.io/badge/Location-Nepal-38BDF8?style=flat-square" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-I'm **Saksham Nidhi**, an **AI & Data Science student** interested in building technology that solves meaningful real-world problems.
+I'm **Saksham Nidhi**, an **AI & Data Science student** exploring how artificial intelligence, data, and software can be turned into useful real-world solutions.
 
-My journey sits at the intersection of:
+My journey currently sits at the intersection of:
 
 - 🤖 **Artificial Intelligence**
 - 📊 **Data Science & Analytics**
 - 🐍 **Python & Machine Learning**
 - 🌐 **Web Technologies**
-- 🚀 **Product & Technology Building**
+- 🚀 **Technology & Product Building**
 
-I'm currently focused on strengthening my foundations in **programming, mathematics, statistics, data analysis, machine learning, and AI** while turning what I learn into practical projects.
+I'm focused on building strong foundations in **programming, mathematics, statistics, data analysis, machine learning, and AI** while turning what I learn into practical projects.
 
 > **Learn → Build → Experiment → Improve**
 
 ---
 
-## 🔭 What I'm Working On
+# 🔭 What I'm Building
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📰 NepalPulse
+## 📰 NepalPulse
 
-A Nepal-focused news platform designed to make current information easier to discover and understand.
+**Know Nepal. Understand the moment.**
 
-**Exploring:**
+A Nepal-focused news platform designed to make current information easier to discover, understand, and explore.
 
-`Data` · `APIs` · `Web Development` · `Automation`
+**Exploring**
+
+`Data` `APIs` `Automation` `Web Development`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Personal Portfolio
+## 🌐 Saksham Verse
 
-My evolving digital portfolio showcasing my journey, projects, experiments, and work in technology.
+My personal portfolio and digital identity platform.
 
-**Built with:**
+A cinematic web experience combining modern frontend development with interactive 3D elements.
 
-`React` · `Three.js` · `WebGL` · `Tailwind`
+**Built with**
+
+`React` `Three.js` `WebGL` `Tailwind`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚨 Earthquake Early Warning
+## 🚨 Earthquake Early Warning
 
-An Arduino-based prototype exploring seismic-wave detection and early warning concepts.
+An educational prototype exploring earthquake detection using vibration sensing and communication technologies.
 
-**Exploring:**
+**Exploring**
 
-`Arduino` · `Sensors` · `GSM` · `Embedded Systems`
+`Arduino` `Sensors` `GSM` `Embedded Systems`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI & Data Science
+## 🤖 AI & Data Science
 
 Building my foundation through experiments in data analysis, machine learning, statistics, and artificial intelligence.
 
-**Learning:**
+**Learning**
 
-`Python` · `NumPy` · `Pandas` · `ML` · `AI`
+`Python` `NumPy` `Pandas` `Scikit-learn`
 
 </td>
 </tr>
@@ -105,13 +112,13 @@ Building my foundation through experiments in data analysis, machine learning, s
 ### 🐍 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,html,css" alt="Languages"/>
 </p>
 
 ### 📊 Data Science & AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
 </p>
 
 `Python` · `NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn`
@@ -119,7 +126,7 @@ Building my foundation through experiments in data analysis, machine learning, s
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,tailwind" alt="Web technologies"/>
 </p>
 
 `React` · `Vite` · `Node.js` · `Express` · `Tailwind CSS`
@@ -127,7 +134,7 @@ Building my foundation through experiments in data analysis, machine learning, s
 ### 🎨 3D & Creative Web
 
 <p>
-<img src="https://skillicons.dev/icons?i=threejs" />
+<img src="https://skillicons.dev/icons?i=threejs" alt="Three.js"/>
 </p>
 
 `Three.js` · `React Three Fiber` · `WebGL` · `Framer Motion` · `GSAP`
@@ -135,7 +142,7 @@ Building my foundation through experiments in data analysis, machine learning, s
 ### 🧰 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare,vercel" alt="Tools"/>
 </p>
 
 ---
@@ -143,25 +150,44 @@ Building my foundation through experiments in data analysis, machine learning, s
 # 📚 My Learning Journey
 
 ```text
-Programming
-     │
-     ▼
-Python & Problem Solving
-     │
-     ▼
-Mathematics & Statistics
-     │
-     ▼
-Data Analysis
-     │
-     ▼
-Machine Learning
-     │
-     ▼
-Deep Learning
-     │
-     ▼
-Generative AI
-     │
-     ▼
-Real-World AI Systems
+                    ┌─────────────────────┐
+                    │    Programming      │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Python & Problem    │
+                    │      Solving        │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Mathematics &       │
+                    │    Statistics       │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   Data Analysis     │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Machine Learning    │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │  Deep Learning      │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │  Generative AI      │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Real-World AI       │
+                    │     Systems         │
+                    └─────────────────────┘
