@@ -1,105 +1,87 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         HEADER                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# 👋 Hi, I'm Saksham Nidhi
-
-### AI & Data Science Student · Developer · Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Learning+Data+Science;Building+Real-World+Projects;Turning+Ideas+Into+Technology" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0369a1&height=180&section=header&text=Saksham%20Nidhi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=62&descSize=17&animation=fadeIn" width="100%" />
 
 <br/>
 
 <a href="https://sakshamnidhi.com.np">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-SAKSHAMNIDHI.COM.NP-0f172a?style=for-the-badge&labelColor=0f172a" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0f172a?style=for-the-badge&logo=google-chrome&logoColor=38bdf8" />
 </a>
-
+&nbsp;
 <a href="https://github.com/codesbysaksham">
-<img src="https://img.shields.io/badge/💻%20GITHUB-CODESBYSAKSHAM-0f172a?style=for-the-badge&labelColor=0f172a" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-38BDF8?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-Data%20Science-38BDF8?style=flat-square" />
-<img src="https://img.shields.io/badge/Location-Nepal-38BDF8?style=flat-square" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Exploring+Artificial+Intelligence;Learning+Data+Science;Building+Real-World+Systems;Turning+Ideas+Into+Technology;Learning+Today.+Building+Tomorrow." />
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 👋 About Me
 
-I'm **Saksham Nidhi**, an **AI & Data Science student** exploring how artificial intelligence, data, and software can be turned into useful real-world solutions.
+I'm **Saksham Nidhi**, an **AI & Data Science student** from Nepal, passionate about understanding how technology can be used to solve meaningful problems.
 
-My journey currently sits at the intersection of:
+My interests sit at the intersection of:
 
-- 🤖 **Artificial Intelligence**
-- 📊 **Data Science & Analytics**
-- 🐍 **Python & Machine Learning**
-- 🌐 **Web Technologies**
-- 🚀 **Technology & Product Building**
+**Artificial Intelligence · Data Science · Machine Learning · Software · Technology**
 
-I'm focused on building strong foundations in **programming, mathematics, statistics, data analysis, machine learning, and AI** while turning what I learn into practical projects.
+I'm currently building my foundations in **Python, mathematics, statistics, data analysis, machine learning, and AI** while developing real-world projects to turn theory into practice.
+
+I enjoy going beyond simply learning a technology — I like understanding **why it works, where it can be useful, and how it can become something people actually use.**
 
 > **Learn → Build → Experiment → Improve**
 
 ---
 
-# 🔭 What I'm Building
+# 🧠 What I'm Interested In
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" align="center">
 
-## 📰 NepalPulse
+### 🤖
+### AI
 
-**Know Nepal. Understand the moment.**
-
-A Nepal-focused news platform designed to make current information easier to discover, understand, and explore.
-
-**Exploring**
-
-`Data` `APIs` `Automation` `Web Development`
+Artificial Intelligence  
+Intelligent Systems
 
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" align="center">
 
-## 🌐 Saksham Verse
+### 📊
+### DATA
 
-My personal portfolio and digital identity platform.
-
-A cinematic web experience combining modern frontend development with interactive 3D elements.
-
-**Built with**
-
-`React` `Three.js` `WebGL` `Tailwind`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 🚨 Earthquake Early Warning
-
-An educational prototype exploring earthquake detection using vibration sensing and communication technologies.
-
-**Exploring**
-
-`Arduino` `Sensors` `GSM` `Embedded Systems`
+Data Science  
+Analytics & Visualization
 
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" align="center">
 
-## 🤖 AI & Data Science
+### 🧪
+### ML
 
-Building my foundation through experiments in data analysis, machine learning, statistics, and artificial intelligence.
+Machine Learning  
+Experimentation
 
-**Learning**
+</td>
 
-`Python` `NumPy` `Pandas` `Scikit-learn`
+<td width="25%" align="center">
+
+### 🚀
+### BUILD
+
+Software  
+Products & Systems
 
 </td>
 </tr>
@@ -107,87 +89,88 @@ Building my foundation through experiments in data analysis, machine learning, s
 
 ---
 
-# 🛠️ Technology
+# 🔭 What I'm Building
 
-### 🐍 Languages
+## 📰 NepalPulse
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,html,css" alt="Languages"/>
-</p>
+### **Know Nepal. Understand the moment.**
 
-### 📊 Data Science & AI
+A Nepal-focused news platform designed to make current information easier to discover and understand.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-</p>
+I'm exploring how **data collection, APIs, automation, web technologies, and information systems** can come together to create a useful product.
 
-`Python` · `NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn`
+**Focus**
 
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,tailwind" alt="Web technologies"/>
-</p>
-
-`React` · `Vite` · `Node.js` · `Express` · `Tailwind CSS`
-
-### 🎨 3D & Creative Web
-
-<p>
-<img src="https://skillicons.dev/icons?i=threejs" alt="Three.js"/>
-</p>
-
-`Three.js` · `React Three Fiber` · `WebGL` · `Framer Motion` · `GSAP`
-
-### 🧰 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare,vercel" alt="Tools"/>
-</p>
+`Data` `APIs` `Automation` `React` `Node.js` `Information Systems`
 
 ---
 
-# 📚 My Learning Journey
+## 🌐 Saksham Verse
+
+My personal portfolio and digital identity platform.
+
+A cinematic portfolio experience designed to combine **modern frontend engineering, interactive 3D experiences, animation, and personal storytelling**.
+
+**Focus**
+
+`React` `Three.js` `React Three Fiber` `WebGL` `Framer Motion` `GSAP`
+
+🌐 **[Visit my portfolio](https://sakshamnidhi.com.np)**
+
+---
+
+## 🚨 Earthquake Early Warning System
+
+An educational prototype exploring earthquake detection and early-warning concepts using sensors, Arduino, and GSM communication.
+
+The project combines **embedded systems, sensing, programming, and communication technologies**.
+
+**Focus**
+
+`Arduino` `SW-420` `Sensors` `GSM` `Embedded Systems`
+
+---
+
+# 📊 My Data Science Journey
 
 ```text
-                    ┌─────────────────────┐
-                    │    Programming      │
-                    └──────────┬──────────┘
+                    ┌──────────────────────┐
+                    │     PROGRAMMING      │
+                    └──────────┬───────────┘
                                │
                                ▼
-                    ┌─────────────────────┐
-                    │ Python & Problem    │
-                    │      Solving        │
-                    └──────────┬──────────┘
+                    ┌──────────────────────┐
+                    │       PYTHON         │
+                    └──────────┬───────────┘
                                │
                                ▼
-                    ┌─────────────────────┐
-                    │ Mathematics &       │
-                    │    Statistics       │
-                    └──────────┬──────────┘
+                    ┌──────────────────────┐
+                    │ MATHEMATICS &        │
+                    │     STATISTICS       │
+                    └──────────┬───────────┘
                                │
                                ▼
-                    ┌─────────────────────┐
-                    │   Data Analysis     │
-                    └──────────┬──────────┘
+                    ┌──────────────────────┐
+                    │   DATA ANALYSIS      │
+                    └──────────┬───────────┘
                                │
                                ▼
-                    ┌─────────────────────┐
-                    │ Machine Learning    │
-                    └──────────┬──────────┘
+                    ┌──────────────────────┐
+                    │ MACHINE LEARNING     │
+                    └──────────┬───────────┘
                                │
                                ▼
-                    ┌─────────────────────┐
-                    │  Deep Learning      │
-                    └──────────┬──────────┘
+                    ┌──────────────────────┐
+                    │   DEEP LEARNING      │
+                    └──────────┬───────────┘
                                │
                                ▼
-                    ┌─────────────────────┐
-                    │  Generative AI      │
-                    └──────────┬──────────┘
+                    ┌──────────────────────┐
+                    │ GENERATIVE AI        │
+                    └──────────┬───────────┘
                                │
                                ▼
-                    ┌─────────────────────┐
-                    │ Real-World AI       │
-                    │     Systems         │
-                    └─────────────────────┘
+                    ┌──────────────────────┐
+                    │ REAL-WORLD AI        │
+                    │      SYSTEMS         │
+                    └──────────────────────┘
